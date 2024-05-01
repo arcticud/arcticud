@@ -1,10 +1,10 @@
 <h1 align="center">
-Synth
+Arctic
 
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Synth;Common+W;Bypassing+Anti+Cheats;+Fuck+Anti+Cheats;Wanted+In+15+States;Seized+By+FBI+Twice;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Arctic;Common+W;Bypassing+Anti+Cheats;+Fuck+Anti+Cheats;Wanted+In+15+States;Seized+By+FBI+Twice;)](https://git.io/typing-svg)
 
 ### Programming Languages
 
